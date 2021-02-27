@@ -4,3 +4,6 @@ First line
 second line 
 third line 
 New line is entered after git is cloned 
+Zara 
+Rabia 
+Rannu1
